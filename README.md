@@ -1,3 +1,5 @@
+Play: https://val-fom.github.io/frontend-nanodegree-arcade-game/
+
 frontend-nanodegree-arcade-game
 ===============================
 
